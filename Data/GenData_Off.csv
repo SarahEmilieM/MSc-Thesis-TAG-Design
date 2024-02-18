@@ -1,0 +1,4 @@
+﻿Area;Generator;Capacity;Node;Zone
+DK_off;GNR_WT_WIND_OFF;3000;10;7
+GE_off;GNR_WT_WIND_OFF;10000;11;7
+NL_off;GNR_WT_WIND_OFF;4000;12;7
