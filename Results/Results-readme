@@ -1,0 +1,3 @@
+#This folder contains matlab files we have used to plot the scenario data as well as TAG calculation and results.
+
+#Csv files included in this folder will be updated every time a new scenario has been run in the main julia code. In that way, the current scenario is plotted based on the updated csv files.
